@@ -1,11 +1,13 @@
-# jogo-NIM
+## Jogo NIM
 >status: Finalizado.
 
-Este projeto foi a atividade da semana 6 do curso: Introdução à Ciência da Computação com Python I. 
-- https://www.coursera.org/learn/ciencia-computacao-python-conceitos
+- Este projeto foi a atividade da semana 6 do curso: Introdução à Ciência da Computação com Python I. 
+    - https://www.coursera.org/learn/ciencia-computacao-python-conceitos
 
+### Linguagem:
+- Python
 
-Objetivos:
+### Objetivos:
 - Visualizar e explorar "múltiplos" cenários;
 - Identificar padrões;
 
